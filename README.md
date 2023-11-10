@@ -77,4 +77,4 @@ Please ensure your code adheres to the project's coding standards, and your cont
 
 ## License
 
-The Flask Note Taking Web Application is open-source and released under the [MIT License](/path/to/LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license. Make sure to include the appropriate attribution and a link back to the original repository.
+The Flask Note Taking Web Application is open-source and released under the [MIT License](https://github.com/srivarshithdaladuli/Note-Taking-Web-Application/blob/main/LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license. Make sure to include the appropriate attribution and a link back to the original repository.
